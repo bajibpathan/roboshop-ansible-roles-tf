@@ -1,0 +1,2 @@
+REDIS_HOST: redis.robodevops.store
+MONGODB_HOST: mongodb.robodevops.store

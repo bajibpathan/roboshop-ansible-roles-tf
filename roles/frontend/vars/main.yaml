@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.robodevops.store
+USER_HOST: user.robodevops.store
+CART_HOST: cart.robodevops.store
+SHIPPING_HOST: shipping.robodevops.store
+PAYMENT_HOST: payment.robodevops.store
