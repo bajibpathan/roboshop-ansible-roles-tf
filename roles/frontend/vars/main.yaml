@@ -1,5 +1,5 @@
-CATALOGUE_HOST: catalogue.robodevops.store
-USER_HOST: user.robodevops.store
-CART_HOST: cart.robodevops.store
-SHIPPING_HOST: shipping.robodevops.store
-PAYMENT_HOST: payment.robodevops.store
+CATALOGUE_HOST: catalogue-{{ env }}.robodevops.store
+USER_HOST: user-{{ env }}.robodevops.store
+CART_HOST: cart-{{ env }}.robodevops.store
+SHIPPING_HOST: shipping-{{ env }}.robodevops.store
+PAYMENT_HOST: payment-{{ env }}.robodevops.store

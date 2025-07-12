@@ -1,1 +1,1 @@
-MONGODB_HOST: mongodb.robodevops.store
+MONGODB_HOST: mongodb-{{ env }}.robodevops.store

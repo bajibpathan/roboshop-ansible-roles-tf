@@ -1,2 +1,2 @@
-REDIS_HOST: redis.robodevops.store
-MONGODB_HOST: mongodb.robodevops.store
+REDIS_HOST: redis-{{ env }}.robodevops.store
+MONGODB_HOST: mongodb-{{ env }}.robodevops.store
